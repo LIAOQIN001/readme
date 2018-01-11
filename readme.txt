@@ -6,5 +6,5 @@ Git is bad
 modify common and send message.
 
 send new English.
-
-
+Git is very good too.
+hehehehehe!
